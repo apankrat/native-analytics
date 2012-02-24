@@ -1,4 +1,14 @@
 <?
+	/*
+	 *	Variable naming conventions in database functions:
+	 *
+	 *		q - query
+	 *		v - variables
+	 *		s - statement ("PDO statement")
+	 *		r - row
+	 *
+	 */
+
 	function db_open()
 	{
 		assert(defined('DB_USER') && 
