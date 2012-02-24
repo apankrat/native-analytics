@@ -1,1 +1,1 @@
-[Homepage](http://v4.swapped.cc/native-analytics)
+[Homepage](http://swapped.cc/native-analytics)
